@@ -1,5 +1,0 @@
----
-title: OTTO BEAR
----
-
-Whatup
