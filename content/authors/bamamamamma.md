@@ -1,0 +1,5 @@
+---
+title: Bamamamamma
+---
+
+Whatup yo?
